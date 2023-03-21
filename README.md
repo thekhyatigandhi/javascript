@@ -15,7 +15,7 @@ The link to the deployed page - https://thekhyatigandhi.github.io/javascript/
 
 The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](./Assets/Web-version.gif)
+![portfolio demo](./Assets/Password-Generator.gif)
 
 ## Usage
 
