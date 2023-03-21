@@ -22,9 +22,7 @@ function generatePassword() {
     alert("Password length must be between 8 and 128 characters.");
     return "";
   }
-  var includeLowercase = confirm(
-    "Would you like to include lowercase letters?"
-  );
+
   var includeLowercase = confirm(
     "Would you like to include lowercase letters?"
   );

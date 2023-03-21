@@ -4,7 +4,7 @@
 
 This is a webpage to randomly generate a password for an emplyoee to access sensative data. The randomly generated password meets certain criterias so that it provides greater security. This app will run in the browser and will feature dynamically updated HTML and CSS powered by the JavaScript code
 
-The link to the deployed page - https://thekhyatigandhi.github.io/Advanced-CSS/
+The link to the deployed page - https://thekhyatigandhi.github.io/javascript/
 
 - [WEBSITE](#WEBSITE)
 - [Usage](#usage)
