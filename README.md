@@ -19,12 +19,12 @@ The following animation shows the web application's appearance and functionality
 
 ## Usage
 
-To use this website, click on generate password. When you click on that, there are certain prompts.
-First - Select the length of you password, and it has to be more than 8 characters and less than 128 characters.
-Next - Click ok if you would like to have uppercase characters, else click cancel.
-Next - Click ok if you would like to have lowercase characters, else click cancel.
-Next - Click ok if you would like to have numericals, else click cancel.
-Next - Click ok if you would like to have special characters, else click cancel.
+To use this website, click on generate password. When you click on that, there are certain prompts.<br />
+First - Select the length of you password, and it has to be more than 8 characters and less than 128 characters.<br />
+Next - Click ok if you would like to have uppercase characters, else click cancel.<br />
+Next - Click ok if you would like to have lowercase characters, else click cancel.<br />
+Next - Click ok if you would like to have numericals, else click cancel.<br />
+Next - Click ok if you would like to have special characters, else click cancel.<br />
 
 You must select atleast one character type to proceed.
 
