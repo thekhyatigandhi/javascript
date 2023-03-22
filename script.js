@@ -68,7 +68,8 @@ function generatePassword() {
   var password = "";
 
   // for loop to repeat
-  // math.floor & math.random for random selection of password
+  // Math.random used with Math.floor used to return random integers.
+
   for (var i = 0; i < passwordLength; i++) {
     var randomIndex = Math.floor(Math.random() * allCharacters.length);
     password += allCharacters[randomIndex];
